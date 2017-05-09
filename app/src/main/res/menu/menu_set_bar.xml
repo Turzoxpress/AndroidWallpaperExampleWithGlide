@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/setas"
+        android:orderInCategory="1"
+        android:title="Download"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/download"
+        android:icon="@drawable/ic_action_phone"
+        android:title="Download Wallpaper" />
+
+    <item
+        android:id="@+id/setwallpaper"
+        android:icon="@drawable/ic_action_phone"
+        android:title="Set as Wallpaper" />
+
+    <item
+        android:id="@+id/setlockscreen"
+        android:icon="@drawable/ic_action_phone"
+        android:title="Set as Lock Screen" />
+
+    <item
+        android:id="@+id/ratethisapp"
+        android:icon="@drawable/ic_action_phone"
+        android:title="Rate this app" />
+
+    <!--
+
+    <item
+        android:id="@+id/lockscreen"
+        android:icon="@drawable/ic_action_phone"
+        android:title="Set as Lock Screen" />
+
+    <item
+        android:id="@+id/bothscreen"
+        android:icon="@drawable/ic_action_phone"
+        android:title="Set as Lock &amp; Home Screen" />
+
+    <item
+        android:id="@+id/ratethisapp"
+        android:icon="@drawable/ic_action_phone"
+        android:title="Rate this app" />
+        -->
+
+
+</menu>

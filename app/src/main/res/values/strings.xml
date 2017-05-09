@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Wallpaper Example With Glide</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="ad_id_interstitial">ca-app-pub-0664570763252260/1769900428</string>
+    <string name="ad_id_banner">ca-app-pub-0664570763252260/3326522424</string>
+    <string name="gameHeader">Hair Style 2017</string>
+    <color name="white">#259b24</color>
+    <string name="tryAgainButtonText"> Try Again;/u>.</string>
+</resources>
