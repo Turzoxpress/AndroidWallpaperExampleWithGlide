@@ -2,7 +2,7 @@
 
 Features :
 
-    1. Glide library to load images from server into a recycle view using Volley instead of okHTTP
+    1. This project uses Glide library to load images from server into a recycle view using Volley instead of okHTTP
     2. Load any selected image into an imageview
     3. Download the image from the server to SD card by Android JPG compressing method
     4. Save the selected image as Phone / Device wallpaper & lockscreen.
